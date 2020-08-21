@@ -1,0 +1,8 @@
+git remote add origin  https://github.com/srojasto/CaenDigitizerProc.git : agregar el directorio como origen del github
+git remote -v : probar que esta agregado de forma correcta
+
+
+git init : para inicializar git en el directorio actual
+git add . : para agregar todos los archivos y despues hacer el commit
+git commit -m "some comment" : commit los cambios
+git push origin master : para subir los cambios a github
