@@ -1,0 +1,3 @@
+Prepare a program to display a single event of two signals (Reference and analysis signals)
+  * Check the function "streampos" to find an specific signal.
+    http://www.cplusplus.com/doc/tutorial/files/
